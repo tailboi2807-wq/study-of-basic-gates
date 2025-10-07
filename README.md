@@ -75,5 +75,9 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+clock pulse
 
+![WhatsApp Image 2025-10-07 at 22 19 52_1c3691f9](https://github.com/user-attachments/assets/a2a0779a-418f-4949-b588-56c76365cc02)
 
+logid diagram
+![WhatsApp Image 2025-10-07 at 21 45 02_e51da856](https://github.com/user-attachments/assets/62d32bec-53f9-4e4d-9936-6f88fae15700)
